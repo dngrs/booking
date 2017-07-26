@@ -1,6 +1,6 @@
 # booking.com
 
-+ #### JAVA 8
++ ### JAVA 8
 + ### Selenuim WebDriver
 + ### JUnit
 + ### Maven
